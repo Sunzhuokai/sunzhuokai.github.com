@@ -35,8 +35,6 @@ timezone:    Asia/Shanghai
 future:      true
 pygments:    true
 markdown:    kramdown
-kramdown:
-  input: GFM
 encoding: utf-8
 # Amount of posts to show on home page
 paginate: 5
