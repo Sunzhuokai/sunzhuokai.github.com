@@ -33,8 +33,10 @@ bing_verify:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Shanghai
 future:      true
-pygments:    true
-markdown:    kramdown
+# pygments:    true
+highlighter: pygments
+mardown: redcarpet
+#markdown:    kramdown
 encoding: utf-8
 # Amount of posts to show on home page
 paginate: 5
