@@ -23,7 +23,15 @@ date: 2015-06-07T23:25:44+08:00
 string s="Hello,World";
 String S="Hello,World";
 ```
-
+{% highlight ruby %}
+def show
+  @widget = Widget(params[:id])
+  respond_to do |format|
+    format.html # show.html.erb
+    format.json { render json: @widget }
+  end
+end
+{% endhighlight %}
 在C#中```string```是```System.String```的别名，所以在技术上来说没有什么区别，就像```int```和```System.Int32```一样。不过在使用过程中我们一般使用```string```来指向一个字符串对象，
 ``` csharp
 string str="hello";
