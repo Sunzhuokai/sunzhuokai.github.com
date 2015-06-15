@@ -4,7 +4,7 @@ description:      记录技术的点点滴滴.
 disqus_shortname: sunzhuokai
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url:              //sunzhuokai.github.io
+url:             //sunzhuokai.github.io
 
 # Owner/author information
 owner:

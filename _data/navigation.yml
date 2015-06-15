@@ -1,7 +1,4 @@
 # Menu navigation links
 
-- title: Theme Setup
-  url: /theme-setup/
-
-- title: External Link
-  url: https://github.com/Sunzhuokai
+- title: Design Patterns
+  url: /NetDesignPattern/

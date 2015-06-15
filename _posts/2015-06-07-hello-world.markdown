@@ -2,9 +2,9 @@
 layout: post
 title: "Hello,World"
 modified:
-categories: 
+categories: test
 description:
-tags: []
+tags: [test]
 image:
   feature:
   credit:
