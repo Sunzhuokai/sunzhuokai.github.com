@@ -29,6 +29,6 @@ string greet=String.Format("Hello {0}",place)
 {% endhighlight %}
 微软的例子中经常这样用
  [原问题地址](http://stackoverflow.com/questions/7074/whats-the-difference-between-string-and-String/7077#7077) 
-
+测试CRLF
 
 
